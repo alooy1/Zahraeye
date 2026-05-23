@@ -1,0 +1,139 @@
+{
+  "location_id": "imam_ali",
+  "location_name_en": "Imam Ali Shrine",
+  "location_name_ar": "مرقد أمير المؤمنين",
+  "questions": [
+    {
+      "id": "1",
+      "question_en": "In which city is Imam Ali's shrine located?",
+      "question_ar": "في أي مدينة يقع مرقد أمير المؤمنين؟",
+      "answer": "NAJAF",
+      "puzzle_type": "swipe_connect",
+      "difficulty": 1,
+      "hints_en": ["Holy city in Iraq"],
+      "hints_ar": ["المدينة المقدسة في العراق"],
+      "time_limit": 90
+    },
+    {
+      "id": "2",
+      "question_en": "What does Ali mean in Arabic?",
+      "question_ar": "ماذا تعني علي بالعربية؟",
+      "answer": "NOBLE",
+      "puzzle_type": "hidden_word",
+      "difficulty": 2,
+      "hints_en": ["A noble attribute"],
+      "hints_ar": ["صفة نبيلة"],
+      "time_limit": 120
+    },
+    {
+      "id": "3",
+      "question_en": "Who was the father of Imam Ali?",
+      "question_ar": "من كان والد أمير المؤمنين؟",
+      "answer": "ABUTALIB",
+      "puzzle_type": "swipe_connect",
+      "difficulty": 2,
+      "hints_en": ["The guardian of Prophet"],
+      "hints_ar": ["وصي النبي"],
+      "time_limit": 120
+    },
+    {
+      "id": "4",
+      "question_en": "What was Imam Ali known as in battle?",
+      "question_ar": "ماذا كان يُعرف به أمير المؤمنين في المعركة؟",
+      "answer": "LION",
+      "puzzle_type": "rune_decode",
+      "difficulty": 1,
+      "hints_en": ["King of the brave"],
+      "hints_ar": ["ملك الشجعان"],
+      "time_limit": 90
+    },
+    {
+      "id": "5",
+      "question_en": "Which gate leads to Imam Ali's shrine?",
+      "question_ar": "أي باب يؤدي إلى مرقد أمير المؤمنين؟",
+      "answer": "GATE",
+      "puzzle_type": "rotate_wheel",
+      "difficulty": 2,
+      "hints_en": ["Famous entrance"],
+      "hints_ar": ["المدخل الشهير"],
+      "time_limit": 120
+    },
+    {
+      "id": "6",
+      "question_en": "What is the famous golden dome color?",
+      "question_ar": "ما لون القبة الذهبية الشهيرة؟",
+      "answer": "GOLD",
+      "puzzle_type": "swipe_connect",
+      "difficulty": 1,
+      "hints_en": ["Precious metal color"],
+      "hints_ar": ["لون المعدن الثمين"],
+      "time_limit": 90
+    },
+    {
+      "id": "7",
+      "question_en": "Imam Ali was the fourth caliph.",
+      "question_ar": "أمير المؤمنين كان الخليفة الرابع.",
+      "answer": "FOURTH",
+      "puzzle_type": "fragment_merge",
+      "difficulty": 2,
+      "hints_en": ["Last of the four"],
+      "hints_ar": ["الأخير من الأربعة"],
+      "time_limit": 120
+    },
+    {
+      "id": "8",
+      "question_en": "Where was Imam Ali born?",
+      "question_ar": "أين وُلد أمير المؤمنين؟",
+      "answer": "MECCA",
+      "puzzle_type": "hidden_word",
+      "difficulty": 1,
+      "hints_en": ["City of the Kaaba"],
+      "hints_ar": ["مدينة الكعبة"],
+      "time_limit": 90
+    },
+    {
+      "id": "9",
+      "question_en": "What is the name of the well near his shrine?",
+      "question_ar": "ما اسم البئر قرب مرقده؟",
+      "answer": "WELL",
+      "puzzle_type": "memory_cards",
+      "difficulty": 3,
+      "hints_en": ["Sacred water source"],
+      "hints_ar": ["ماء مقدس"],
+      "time_limit": 120
+    },
+    {
+      "id": "10",
+      "question_en": "Imam Ali's nickname in battle was?",
+      "question_ar": "لقب أمير المؤمنين في الحرب كان؟",
+      "answer": "ASADULLAH",
+      "puzzle_type": "swipe_connect",
+      "difficulty": 3,
+      "hints_en": ["Lion of God"],
+      "hints_ar": ["أسد الله"],
+      "time_limit": 90
+    },
+    {
+      "id": "11",
+      "question_en": "The shrine is also known as?",
+      "question_ar": "المرقد يُعرف أيضاً باسم؟",
+      "answer": "NAJAF",
+      "puzzle_type": "energy_path",
+      "difficulty": 2,
+      "hints_en": ["City of the shrine"],
+      "hints_ar": ["المدينة التي فيها المرقد"],
+      "time_limit": 120
+    },
+    {
+      "id": "12",
+      "question_en": "When was Imam Ali martyred?",
+      "question_ar": "متى استُشهد أمير المؤمنين؟",
+      "answer": "SIENTYONE",
+      "puzzle_type": "rune_decode",
+      "difficulty": 3,
+      "hints_en": ["Islamic year"],
+      "hints_ar": ["السنة الهجرية"],
+      "time_limit": 60
+    }
+  ]
+}

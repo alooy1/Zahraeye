@@ -1,0 +1,19 @@
+{
+  "location_id": "askari",
+  "location_name_en": "Al-Askari Shrine",
+  "location_name_ar": "العسكرية",
+  "questions": [
+    {"id": "1", "question_en": "In which city is Al-Askari located?", "answer": "SAMARRA", "puzzle_type": "swipe_connect", "difficulty": 1, "hints_en": ["Ancient city in Iraq"], "time_limit": 90},
+    {"id": "2", "question_en": "Which Imam is buried here?", "answer": "ASKARI", "puzzle_type": "hidden_word", "difficulty": 1, "hints_en": ["Tenth Imam"], "hints_ar": ["الإمام العاشر"], "time_limit": 90},
+    {"id": "3", "question_en": "What are the famous golden domes?", "answer": "GOLD", "puzzle_type": "swipe_connect", "difficulty": 1, "hints_en": ["Precious metal"], "hints_ar": ["معدن ثمين"], "time_limit": 90},
+    {"id": "4", "question_en": "When was the shrine built?", "answer": "ERA", "puzzle_type": "rune_decode", "difficulty": 2, "hints_en": ["Islamic period"], "hints_ar": ["الفترة الإسلامية"], "time_limit": 120},
+    {"id": "5", "question_en": "What marks the burial site?", "answer": "TURRET", "puzzle_type": "rotate_wheel", "difficulty": 2, "hints_en": ["Tower structure"], "hints_ar": ["هيكل البرج"], "time_limit": 120},
+    {"id": "6", "question_en": "The shrine is also known as?", "answer": "SHRINE", "puzzle_type": "swipe_connect", "difficulty": 1, "hints_en": ["Holy place"], "hints_ar": ["مكان مقدس"], "time_limit": 90},
+    {"id": "7", "question_en": "What architectural style?", "answer": "PERSIAN", "puzzle_type": "hidden_word", "difficulty": 2, "hints_en": ["Origin style"], "hints_ar": ["نمط الأصل"], "time_limit": 120},
+    {"id": "8", "question_en": "Who commissioned the golden domes?", "answer": "SHAH", "puzzle_type": "fragment_merge", "difficulty": 3, "hints_en": ["Persian ruler"], "hints_ar": ["حاكم فارسي"], "time_limit": 90},
+    {"id": "9", "question_en": "What happened in 2006?", "answer": "ATTACK", "puzzle_type": "memory_cards", "difficulty": 2, "hints_en": ["Tragic event"], "hints_ar": ["حدث مؤسف"], "time_limit": 120},
+    {"id": "10", "question_en": "What was restored after the bombing?", "answer": "DOME", "puzzle_type": "swipe_connect", "difficulty": 2, "hints_en": ["Top of building"], "hints_ar": ["سطح المبنى"], "time_limit": 120},
+    {"id": "11", "question_en": "The underground shrine contains what?", "answer": "CAVERN", "puzzle_type": "energy_path", "difficulty": 3, "hints_en": ["Underground area"], "hints_ar": ["منطقة تحت الأرض"], "time_limit": 90},
+    {"id": "12", "question_en": "What makes this shrine unique?", "answer": "TWIN", "puzzle_type": "boss", "difficulty": 3, "hints_en": ["Two domes"], "hints_ar": ["قبتان"], "time_limit": 60}
+  ]
+}

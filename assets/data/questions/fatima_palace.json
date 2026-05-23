@@ -1,0 +1,139 @@
+{
+  "location_id": "fatima_palace",
+  "location_name_en": "Fatima Palace",
+  "location_name_ar": "قصر فاطمة",
+  "questions": [
+    {
+      "id": "1",
+      "question_en": "Who is Fatima Zahra?",
+      "question_ar": "من هي فاطمة الزهراء؟",
+      "answer": "DAUGHTER",
+      "puzzle_type": "swipe_connect",
+      "difficulty": 1,
+      "hints_en": ["Daughter of the Prophet"],
+      "hints_ar": ["بنت النبي"],
+      "time_limit": 90
+    },
+    {
+      "id": "2",
+      "question_en": "What does Fatima's title mean?",
+      "question_ar": "ماذا يعني لقب فاطمة؟",
+      "answer": "PURE",
+      "puzzle_type": "hidden_word",
+      "difficulty": 2,
+      "hints_en": ["One who abstains"],
+      "hints_ar": ["الممتلكة"],
+      "time_limit": 120
+    },
+    {
+      "id": "3",
+      "question_en": "Who was Fatima's husband?",
+      "question_ar": "من كان زوج فاطمة؟",
+      "answer": "ALI",
+      "puzzle_type": "swipe_connect",
+      "difficulty": 1,
+      "hints_en": ["The fourth caliph"],
+      "hints_ar": ["الخليفة الرابع"],
+      "time_limit": 90
+    },
+    {
+      "id": "4",
+      "question_en": "How many children did Fatima have?",
+      "question_ar": "كم طفلاً أنجبت فاطمة؟",
+      "answer": "FIVE",
+      "puzzle_type": "rune_decode",
+      "difficulty": 2,
+      "hints_en": ["Including sons and daughters"],
+      "hints_ar": ["بما فيهم البنون والبنات"],
+      "time_limit": 120
+    },
+    {
+      "id": "5",
+      "question_en": "What is Fatima known as in Islamic tradition?",
+      "question_ar": "ماذا تُعرف فاطمة في التقليد الإسلامي؟",
+      "answer": "LADY",
+      "puzzle_type": "rotate_wheel",
+      "difficulty": 2,
+      "hints_en": ["Women's leader"],
+      "hints_ar": ["قائدة النساء"],
+      "time_limit": 120
+    },
+    {
+      "id": "6",
+      "question_en": "Where is Fatima's burial place?",
+      "question_ar": "أين مكان دفن فاطمة؟",
+      "answer": "MEDINA",
+      "puzzle_type": "hidden_word",
+      "difficulty": 2,
+      "hints_en": ["The city of the Prophet"],
+      "hints_ar": ["مدينة النبي"],
+      "time_limit": 120
+    },
+    {
+      "id": "7",
+      "question_en": "What is the famous event involving Fatima?",
+      "question_ar": "ما الحدث الشهير الذي يشارك فاطمة؟",
+      "answer": "FADAK",
+      "puzzle_type": "swipe_connect",
+      "difficulty": 3,
+      "hints_en": ["Land of inheritance"],
+      "hints_ar": ["أرض الميراث"],
+      "time_limit": 90
+    },
+    {
+      "id": "8",
+      "question_en": "What is Fatima's other name?",
+      "question_ar": "ما اسم فاطمة الآخر؟",
+      "answer": "ZAHRA",
+      "puzzle_type": "memory_cards",
+      "difficulty": 1,
+      "hints_en": ["The shining one"],
+      "hints_ar": ["المضيئة"],
+      "time_limit": 90
+    },
+    {
+      "id": "9",
+      "question_en": "What is the name of Fatima's famous speech?",
+      "question_ar": "ما اسم خطاب فاطمة الشهير؟",
+      "answer": "KHUTBAH",
+      "puzzle_type": "fragment_merge",
+      "difficulty": 3,
+      "hints_en": ["Address to people"],
+      "hints_ar": ["مخاطبة الناس"],
+      "time_limit": 90
+    },
+    {
+      "id": "10",
+      "question_en": "Which son of Ali and Fatima became the second Imam?",
+      "question_ar": "أي ابن لعلي وفاطمة أصبح إماماً ثانياً؟",
+      "answer": "HASSAN",
+      "puzzle_type": "swipe_connect",
+      "difficulty": 2,
+      "hints_en": ["Elder son"],
+      "hints_ar": ["الأكبر سناً"],
+      "time_limit": 120
+    },
+    {
+      "id": "11",
+      "question_en": "What was Fatima's age at passing?",
+      "question_ar": "كم كان عمر فاطمة عند الوفاة؟",
+      "answer": "TWENTYNINE",
+      "puzzle_type": "rune_decode",
+      "difficulty": 3,
+      "hints_en": ["Young age"],
+      "hints_ar": ["سن صغيرة"],
+      "time_limit": 90
+    },
+    {
+      "id": "12",
+      "question_en": "What does the palace represent in Fatima's legacy?",
+      "question_ar": "ما الذي يمثله القصر في إرث فاطمة؟",
+      "answer": "PALACE",
+      "puzzle_type": "boss",
+      "difficulty": 3,
+      "hints_en": ["Final destination"],
+      "hints_ar": ["المكان الأخير"],
+      "time_limit": 60
+    }
+  ]
+}

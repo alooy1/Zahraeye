@@ -1,0 +1,19 @@
+{
+  "location_id": "baqi",
+  "location_name_en": "Al-Baqi Cemetery",
+  "location_name_ar": "مقبرة البقيع",
+  "questions": [
+    {"id": "1", "question_en": "Where is Al-Baqi cemetery located?", "question_ar": "أين تقع مقبرة البقيع؟", "answer": "MEDINA", "puzzle_type": "swipe_connect", "difficulty": 1, "hints_en": ["City of the Prophet"], "time_limit": 90},
+    {"id": "2", "question_en": "Who is buried in Al-Baqi?", "question_ar": "من يدفن في البقيع؟", "answer": "FAMILY", "puzzle_type": "hidden_word", "difficulty": 1, "hints_en": ["Prophet's family"], "hints_ar": ["عائلة النبي"], "time_limit": 90},
+    {"id": "3", "question_en": "What does Al-Baqi mean?", "question_ar": "ماذا تعني البقيع؟", "answer": "GARDEN", "puzzle_type": "swipe_connect", "difficulty": 2, "hints_en": ["A green garden"], "hints_ar": ["حديقة خضراء"], "time_limit": 120},
+    {"id": "4", "question_en": "Which caliphs are buried here?", "question_ar": "أي الخلفاء يدفنون هنا؟", "answer": "UMAR", "puzzle_type": "rune_decode", "difficulty": 2, "hints_en": ["Second caliph"], "hints_ar": ["الخليفة الثاني"], "time_limit": 120},
+    {"id": "5", "question_en": "What was Al-Baqi also known as?", "question_ar": "ما الذي كان يُعرف به البقيع أيضاً؟", "answer": "JANNAT", "puzzle_type": "rotate_wheel", "difficulty": 2, "hints_en": ["Heaven"], "hints_ar": ["الجنة"], "time_limit": 120},
+    {"id": "6", "question_en": "Who destroyed the graves?", "question_ar": "من دمر القبور؟", "answer": "WAHAB", "puzzle_type": "swipe_connect", "difficulty": 3, "hints_en": ["Saudi ruler"], "hints_ar": ["حاكم سعودي"], "time_limit": 90},
+    {"id": "7", "question_en": "How many gates to the cemetery?", "question_ar": "كم بوابة للمقبرة؟", "answer": "FOUR", "puzzle_type": "hidden_word", "difficulty": 2, "hints_en": ["Number of gates"], "hints_ar": ["عدد البوابات"], "time_limit": 120},
+    {"id": "8", "question_en": "What is the main feature?", "question_ar": "ما الميزة الرئيسية؟", "answer": "GRAVES", "puzzle_type": "fragment_merge", "difficulty": 1, "hints_en": ["Burial site"], "hints_ar": ["موضع الدفن"], "time_limit": 90},
+    {"id": "9", "question_en": "When was it established?", "question_ar": "متى أُسست؟", "answer": "TIME", "puzzle_type": "memory_cards", "difficulty": 3, "hints_en": ["After Prophet"], "hints_ar": ["بعد النبي"], "time_limit": 120},
+    {"id": "10", "question_en": "Which family members are here?", "question_ar": "أي أفراد من العائلة هنا؟", "answer": "SONS", "puzzle_type": "swipe_connect", "difficulty": 2, "hints_en": ["Prophet's sons"], "hints_ar": ["أبناء النبي"], "time_limit": 120},
+    {"id": "11", "question_en": "What is the spiritual significance?", "question_ar": "ما الأهمية الروحية؟", "answer": "SACRED", "puzzle_type": "energy_path", "difficulty": 3, "hints_en": ["Holy ground"], "hints_ar": ["أرض مقدسة"], "time_limit": 90},
+    {"id": "12", "question_en": "The cemetery is also called?", "question_ar": "تسمى المقبرة أيضاً؟", "answer": "BAQI", "puzzle_type": "boss", "difficulty": 3, "hints_en": ["Meaning remaining"], "hints_ar": ["تعني الباقي"], "time_limit": 60}
+  ]
+}

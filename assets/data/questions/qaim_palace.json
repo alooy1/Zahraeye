@@ -1,0 +1,19 @@
+{
+  "location_id": "qaim_palace",
+  "location_name_en": "Al-Qa'im Palace",
+  "location_name_ar": "قصر القائم",
+  "questions": [
+    {"id": "1", "question_en": "Who is Al-Qa'im?", "answer": "IMAM", "puzzle_type": "swipe_connect", "difficulty": 1, "hints_en": ["Hidden Imam"], "hints_ar": ["الإمام المخفي"], "time_limit": 90},
+    {"id": "2", "question_en": "In which city is this palace?", "answer": "BAGHDAD", "puzzle_type": "hidden_word", "difficulty": 1, "hints_en": ["Capital of Iraq"], "hints_ar": ["عاصمة العراق"], "time_limit": 90},
+    {"id": "3", "question_en": "What architectural style?", "answer": "ABBASID", "puzzle_type": "swipe_connect", "difficulty": 2, "hints_en": ["Historical dynasty"], "hints_ar": ["الأسرة التاريخية"], "time_limit": 120},
+    {"id": "4", "question_en": "When was it built?", "answer": "CENTURY", "puzzle_type": "rune_decode", "difficulty": 2, "hints_en": ["Islamic era"], "hints_ar": ["العصر الإسلامي"], "time_limit": 120},
+    {"id": "5", "question_en": "What is the palace's purpose?", "answer": "RESIDENCE", "puzzle_type": "rotate_wheel", "difficulty": 2, "hints_en": ["Living quarters"], "hints_ar": ["مكان الإقامة"], "time_limit": 120},
+    {"id": "6", "question_en": "Where is the palace located?", "answer": "RIVER", "puzzle_type": "swipe_connect", "difficulty": 1, "hints_en": ["Near the Tigris"], "hints_ar": ["بجانب دجلة"], "time_limit": 90},
+    {"id": "7", "question_en": "What materials were used?", "answer": "BRICK", "puzzle_type": "hidden_word", "difficulty": 2, "hints_en": ["Building material"], "hints_ar": ["مادة البناء"], "time_limit": 120},
+    {"id": "8", "question_en": "What is the palace also known as?", "answer": "DAR", "puzzle_type": "fragment_merge", "difficulty": 1, "hints_en": ["House in Arabic"], "hints_ar": ["دار بالعربية"], "time_limit": 90},
+    {"id": "9", "question_en": "What happened to the palace over time?", "answer": "RUINS", "puzzle_type": "memory_cards", "difficulty": 2, "hints_en": ["Decay state"], "hints_ar": ["حالة التدهور"], "time_limit": 120},
+    {"id": "10", "question_en": "What connects to the palace?", "answer": "TUNNEL", "puzzle_type": "swipe_connect", "difficulty": 3, "hints_en": ["Underground passage"], "hints_ar": ["تحت الأرض"], "time_limit": 90},
+    {"id": "11", "question_en": "What is the architectural significance?", "value": "HERITAGE", "puzzle_type": "energy_path", "difficulty": 3, "hints_en": ["Historical value"], "hints_ar": ["قيمة تاريخية"], "time_limit": 90},
+    {"id": "12", "question_en": "The palace represents what era?", "answer": "CALIPHATE", "puzzle_type": "boss", "difficulty": 3, "hints_en": ["Islamic rule"], "hints_ar": ["الحكم الإسلامي"], "time_limit": 60}
+  ]
+}

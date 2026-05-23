@@ -1,0 +1,19 @@
+{
+  "location_id": "kufa_mosque",
+  "location_name_en": "Great Mosque of Kufa",
+  "location_name_ar": "مسجد كوفة",
+  "questions": [
+    {"id": "1", "question_en": "In which city is the Great Mosque of Kufa?", "answer": "KUFA", "puzzle_type": "swipe_connect", "difficulty": 1, "hints_en": ["Ancient city in Iraq"], "time_limit": 90},
+    {"id": "2", "question_en": "Who founded Kufa?", "answer": "SAAD", "puzzle_type": "hidden_word", "difficulty": 1, "hints_en": ["Companion of Prophet"], "hints_ar": ["صاحب النبي"], "time_limit": 90},
+    {"id": "3", "question_en": "What is special about the minaret?", "answer": "MUD", "puzzle_type": "swipe_connect", "difficulty": 2, "hints_en": ["Material used"], "hints_ar": ["المادة المستخدمة"], "time_limit": 120},
+    {"id": "4", "question_en": "Where is Imam Ali's mosque located?", "answer": "INSIDE", "puzzle_type": "rune_decode", "difficulty": 2, "hints_en": ["Within the complex"], "hints_ar": ["داخل المجمع"], "time_limit": 120},
+    {"id": "5", "question_en": "What historical event happened here?", "answer": "MARTYRDOM", "puzzle_type": "rotate_wheel", "difficulty": 2, "hints_en": ["Tragic death"], "hints_ar": ["موت مأساوي"], "time_limit": 120},
+    {"id": "6", "question_en": "What is Kufa famous for?", "answer": "ISLAMIC", "puzzle_type": "swipe_connect", "difficulty": 1, "hints_en": ["Islamic learning"], "hints_ar": ["التعلم الإسلامي"], "time_limit": 90},
+    {"id": "7", "question_en": "The city was built as what type?", "answer": "MILITARY", "puzzle_type": "hidden_word", "difficulty": 2, "hints_en": ["Army camp"], "hints_ar": ["معسكر"], "time_limit": 120},
+    {"id": "8", "question_en": "What architecture style is present?", "result": "ANCIENT", "puzzle_type": "fragment_merge", "difficulty": 2, "hints_en": ["Old style"], "hints_ar": ["نمط قديم"], "time_limit": 120},
+    {"id": "9", "question_en": "What does Kufa mean?", "answer": "VILLAGE", "puzzle_type": "memory_cards", "difficulty": 3, "hints_en": ["Arabic meaning"], "hints_ar": ["المعنى العربي"], "time_limit": 120},
+    {"id": "10", "question_en": "Who expanded the mosque?", "answer": "HASSAN", "puzzle_type": "swipe_connect", "difficulty": 2, "hints_en": ["Second caliph"], "hints_ar": ["الخليفة الثاني"], "time_limit": 120},
+    {"id": "11", "question_en": "What is the prayer direction?", "answer": "QIBLA", "puzzle_type": "energy_path", "difficulty": 2, "hints_en": ["Towards Mecca"], "hints_ar": ["نحو مكة"], "time_limit": 120},
+    {"id": "12", "question_en": "What is unique about the location?", "answer": "HISTORIC", "puzzle_type": "boss", "difficulty": 3, "hints_en": ["Ancient significance"], "hints_ar": ["أهمية تاريخية"], "time_limit": 60}
+  ]
+}

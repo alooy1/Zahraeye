@@ -1,0 +1,19 @@
+{
+  "location_id": "kadhimiya",
+  "location_name_en": "Al-Kadhimiya Shrine",
+  "location_name_ar": "الكاظمية",
+  "questions": [
+    {"id": "1", "question_en": "In which city is Al-Kadhimiya located?", "answer": "BAGHDAD", "puzzle_type": "swipe_connect", "difficulty": 1, "hints_en": ["Capital of Iraq"], "time_limit": 90},
+    {"id": "2", "question_en": "Which two Imams are buried here?", "answer": "MOOSA", "puzzle_type": "hidden_word", "difficulty": 1, "hints_en": ["Seventh Imam"], "hints_ar": ["الإمام السابع"], "time_limit": 90},
+    {"id": "3", "question_en": "What color is the shrine's dome?", "answer": "BLUE", "puzzle_type": "swipe_connect", "difficulty": 2, "hints_en": ["Sky color"], "hints_ar": ["لون السماء"], "time_limit": 120},
+    {"id": "4", "question_en": "When was the shrine built?", "answer": "YEAR", "puzzle_type": "rune_decode", "difficulty": 2, "hints_en": ["Islamic century"], "hints_ar": ["القرن الهجري"], "time_limit": 120},
+    {"id": "5", "question_en": "What is the shrine also called?", "answer": "MOSQUE", "puzzle_type": "rotate_wheel", "difficulty": 2, "hints_en": ["Place of worship"], "hints_ar": ["مكان العبادة"], "time_limit": 120},
+    {"id": "6", "question_en": "Who visits this shrine annually?", "answer": "MILLIONS", "puzzle_type": "swipe_connect", "difficulty": 3, "hints_en": ["Many pilgrims"], "hints_ar": ["حجاج كثيرون"], "time_limit": 90},
+    {"id": "7", "question_en": "What is the architectural style?", "answer": "IRANIAN", "puzzle_type": "hidden_word", "difficulty": 2, "hints_en": ["Persian influence"], "hints_ar": ["تأثير فارسي"], "time_limit": 120},
+    {"id": "8", "question_en": "The shrine contains holy what?", "answer": "RELICS", "puzzle_type": "fragment_merge", "difficulty": 1, "hints_en": ["Sacred objects"], "hints_ar": ["أشياء مقدسة"], "time_limit": 90},
+    {"id": "9", "question_en": "What is the main entrance called?", "answer": "GATE", "puzzle_type": "memory_cards", "difficulty": 3, "hints_en": ["Doorway"], "hints_ar": ["الباب"], "time_limit": 120},
+    {"id": "10", "question_en": "Which dynasty built the current structure?", "answer": "SAFAVID", "puzzle_type": "swipe_connect", "difficulty": 3, "hints_en": ["Persian dynasty"], "hints_ar": ["الدولة الفارسية"], "time_limit": 90},
+    {"id": "11", "question_en": "What festival is celebrated here?", "answer": "EID", "puzzle_type": "energy_path", "difficulty": 2, "hints_en": ["Celebration"], "hints_ar": ["الاحتفال"], "time_limit": 120},
+    {"id": "12", "question_en": "The shrine is located in what neighborhood?", "answer": "KADHIMAIN", "puzzle_type": "boss", "difficulty": 3, "hints_en": ["Area name"], "hints_ar": ["اسم المنطقة"], "time_limit": 60}
+  ]
+}

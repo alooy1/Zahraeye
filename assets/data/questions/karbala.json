@@ -1,0 +1,139 @@
+{
+  "location_id": "karbala",
+  "location_name_en": "Karbala",
+  "location_name_ar": "كربلاء",
+  "questions": [
+    {
+      "id": "1",
+      "question_en": "In which country is Karbala located?",
+      "question_ar": "في أي بلد تقع كربلاء؟",
+      "answer": "IRAQ",
+      "puzzle_type": "swipe_connect",
+      "difficulty": 1,
+      "hints_en": ["Ancient civilization land"],
+      "hints_ar": ["أرض الحضارة القديمة"],
+      "time_limit": 90
+    },
+    {
+      "id": "2",
+      "question_en": "Who is the son of Prophet Muhammad buried in Karbala?",
+      "question_ar": "من هو ابن النبي محمد المدفون في كربلاء؟",
+      "answer": "HUSSEIN",
+      "puzzle_type": "hidden_word",
+      "difficulty": 1,
+      "hints_en": ["Grandson of the Prophet"],
+      "hints_ar": ["حفيد النبي"],
+      "time_limit": 90
+    },
+    {
+      "id": "3",
+      "question_en": "What happened in the year 61 AH in Karbala?",
+      "question_ar": "ماذا حدث في عام 61 هجري في كربلاء؟",
+      "answer": "BATTLE",
+      "puzzle_type": "swipe_connect",
+      "difficulty": 2,
+      "hints_en": ["Tragic event"],
+      "hints_ar": ["حدث مؤسف"],
+      "time_limit": 120
+    },
+    {
+      "id": "4",
+      "question_en": "What is the famous shrine in Karbala called?",
+      "question_ar": "ما اسم المرقد الشهير في كربلاء؟",
+      "answer": "HUSSEIN",
+      "puzzle_type": "rune_decode",
+      "difficulty": 1,
+      "hints_en": ["Name of the Imam"],
+      "hints_ar": ["اسم الإمام"],
+      "time_limit": 90
+    },
+    {
+      "id": "5",
+      "question_en": "Who was the companion of Imam Hussein in Karbala?",
+      "question_ar": "من كان صاحب الإمام Hussein في كربلاء؟",
+      "answer": "ABBAS",
+      "puzzle_type": "swipe_connect",
+      "difficulty": 1,
+      "hints_en": ["The standard bearer"],
+      "hints_ar": ["حامل الراية"],
+      "time_limit": 90
+    },
+    {
+      "id": "6",
+      "question_en": "What is the name of the shrine of Abbas?",
+      "question_ar": "ما اسم مرقد العباس؟",
+      "answer": "ABBAS",
+      "puzzle_type": "rotate_wheel",
+      "difficulty": 1,
+      "hints_en": ["Brother of Hussein"],
+      "hints_ar": ["أخو Husseayn"],
+      "time_limit": 90
+    },
+    {
+      "id": "7",
+      "question_en": "The battle took place on which day of Muharram?",
+      "question_ar": "وقعت المعركة في أي يوم من محرم؟",
+      "answer": "TENTH",
+      "puzzle_type": "hidden_word",
+      "difficulty": 2,
+      "hints_en": ["Ashura day"],
+      "hints_ar": ["يوم عاشوراء"],
+      "time_limit": 120
+    },
+    {
+      "id": "8",
+      "question_en": "What do pilgrims often do in Karbala?",
+      "question_ar": "ماذا يفعل الحجاج غالباً في كربلاء؟",
+      "answer": "PRAY",
+      "puzzle_type": "fragment_merge",
+      "difficulty": 1,
+      "hints_en": ["Religious act"],
+      "hints_ar": ["فعل ديني"],
+      "time_limit": 90
+    },
+    {
+      "id": "9",
+      "question_en": "The golden domes are of what color?",
+      "question_ar": "القباب الذهبية من لون؟",
+      "answer": "GOLD",
+      "puzzle_type": "memory_cards",
+      "difficulty": 1,
+      "hints_en": ["Precious metal"],
+      "hints_ar": ["معدن ثمين"],
+      "time_limit": 90
+    },
+    {
+      "id": "10",
+      "question_en": "What is the main square in Karbala called?",
+      "question_ar": "ما اسم الميدان الرئيسي في كربلاء؟",
+      "answer": "SQUARE",
+      "puzzle_type": "swipe_connect",
+      "difficulty": 2,
+      "hints_en": ["Where people gather"],
+      "hints_ar": ["حيث يجمع الناس"],
+      "time_limit": 120
+    },
+    {
+      "id": "11",
+      "question_en": "Imam Hussein was the grandson of the Prophet.",
+      "question_ar": "الإمام Hussein كان حفيد النبي.",
+      "answer": "GRANDSON",
+      "puzzle_type": "energy_path",
+      "difficulty": 2,
+      "hints_en": ["Child of his daughter"],
+      "hints_ar": ["ابن بنته"],
+      "time_limit": 120
+    },
+    {
+      "id": "12",
+      "question_en": "What is the pilgrimage period to Karbala?",
+      "question_ar": "ما فترة الحج إلى كربلاء؟",
+      "answer": "ARBAEEN",
+      "puzzle_type": "rune_decode",
+      "difficulty": 3,
+      "hints_en": ["Forty days after"],
+      "hints_ar": ["أربعون يوماً بعد"],
+      "time_limit": 60
+    }
+  ]
+}
